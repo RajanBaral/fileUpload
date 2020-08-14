@@ -17,7 +17,7 @@ class Database {
 	private static $dbName         = 'upload' ; 
 	private static $dbHost         = 'localhost' ;
 	private static $dbUsername     = 'root';
-	private static $dbUserPassword = 'ruz123';
+	private static $dbUserPassword =c 'yourpassword';
 	
 	// declare and initialize PDO instance variable: $connection
 	private static $connection  = null;
